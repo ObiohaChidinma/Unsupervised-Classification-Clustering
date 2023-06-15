@@ -1,5 +1,5 @@
 # Unsupervised-Classification-Clustering
-Skills & Tools Covered
+Skills & Tools Covered:
 EDA
 Kmeans Clustering
 Hierarchical Clustering
